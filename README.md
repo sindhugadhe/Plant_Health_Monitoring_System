@@ -131,7 +131,7 @@ git clone https://github.com/sindhugadhe/Plant_Health_Monitoring_System.git
 ```
 
 ```bash
-cd Plant-Leaf-Disease-Detection
+cd Plant_Health_Monitoring_System
 ```
 
 ### Create Virtual Environment
